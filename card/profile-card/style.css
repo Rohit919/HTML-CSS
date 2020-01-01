@@ -151,8 +151,6 @@
   transition: all 265ms ease-in;
 }
 
-
-
 .social-icons a:hover i {
   transform: scale(2.2);
   -ms-transform: scale(2.2);
